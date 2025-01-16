@@ -1,5 +1,9 @@
 # Analise-de-Desempenho-di-rio
-Analysis carried out in Google Sheets, the company's main tool, with the aim of seeing the team's monthly performance in more detail.
+Analysis carried out in Google Sheets, the company's main tool, with the aim of seeing the team's monthly performance in more detail. Completely practical project developed on demand directly in Shopee Express operations.
+
+![Primeira página da analise](./img/Analise%20de%20performace%20na%20Shopee%20Express.png)
+
+![Gráfico de performance](./img/Gráfico%20de%20Performasse.png)
 
 # Main objectives
 We wanted to understand :
